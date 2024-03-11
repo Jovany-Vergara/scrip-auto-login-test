@@ -6,6 +6,7 @@ Se uso la herramieta `Puppeteer`: Es una biblioteca de Node.js que proporciona u
 ## Requisitos
 
 - Node.js ( `v18.17.1` )
+- npm install
 - Puppeteer (`npm install puppeteer`)
 
 ## Configuración
@@ -18,6 +19,6 @@ Se uso la herramieta `Puppeteer`: Es una biblioteca de Node.js que proporciona u
 
 Para ejecutar el script de inicio de sesión, usa el siguiente comando:
 
-`node login.js`
 
-```
+```brash
+node login.js
